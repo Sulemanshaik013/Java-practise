@@ -1,8 +1,8 @@
-package com.arrays;
+package com.hypothesis.arrays;
 
 import java.util.Arrays;
 
-public class ArraySorting {
+public class SortArray {
 
 	public static void main(String[] args) {
 

@@ -1,4 +1,4 @@
-package com.arrays;
+package com.hypothesis.arrays;
 
 import java.util.Scanner;
 
